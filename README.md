@@ -20,6 +20,16 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
+*  📁 **Caminho:** `gerenciador_alunos_excel.py`
+  
+*  📊 [ Gerenciador de Alunos com Excel](gerenciador_alunos_excel.py)
+
+
+
+
+
+
+
 
 
 ---
