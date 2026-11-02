@@ -24,6 +24,7 @@ O projeto está organizado em pastas para facilitar a navegação:
 * **Requisitos:** Biblioteca `openpyxl` instalada (`pip install openpyxl`).
 
 <br>
+
 *  📁 **Arquivo:** `validação_senha.py`
 
 *  🔑 [ Validação de Senha com Loop](validacao_senha.py)
