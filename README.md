@@ -12,7 +12,7 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
-*  📁**Caminho:** `juros_compostos.py`
+*  📁 **Caminho:** `juros_compostos.py`
   
 *  💰 [Simulador de Juros Compostos](juros_compostos.py)
   
@@ -21,9 +21,6 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
-*   📁 **`algoritmos/`**: Desafios de lógica, manipulação de dados e matemática.
-*   📁 **`exercicios/`**: Resoluções de plataformas e cursos.
-*   📁 **`automacoes/`**: Scripts para agilizar tarefas do dia a dia.
 
 ---
 
