@@ -12,7 +12,7 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
-*  📁 **Caminho:** `juros_compostos.py`
+*  📁 **Arquivo:** `juros_compostos.py`
   
 *  💰 [Simulador de Juros Compostos](juros_compostos.py)
   
@@ -20,11 +20,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
-*  📁 **Caminho:** `gerenciador_alunos_excel.py`
+*  📁 **Arquivo:** `gerenciador_alunos_excel.py`
+
   
 *  📊 [ Gerenciador de Alunos com Excel](gerenciador_alunos_excel.py)
 
-
+* **Descrição:** Um sistema interativo em terminal (CRUD) que se conecta a uma planilha `.xlsx`. O script permite listar, adicionar, editar e apagar registros de alunos diretamente no arquivo do Excel, salvando as alterações em um novo arquivo modificado.
+* **Requisitos:** Biblioteca `openpyxl` instalada (`pip install openpyxl`).
 
 
 
