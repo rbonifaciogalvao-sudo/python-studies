@@ -26,13 +26,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 *  📁 **Arquivo:** `validação_senha.py`
 
-*  🔑 [ Validação de Senha com Loop](validação_senha.py)
+*  🔑 [ Validação de Senha com Loop](validacao_senha.py)
 
 * **Descrição:** Um script simples focado em estruturas de controle que solicita uma senha numérica ao usuário e valida o acesso, demonstrando o uso prático de laços.
 
 
 
-*  📂[ Escrita, Leitura e Tratamento em Arquivos TXT](#-escrita-leitura-e-tratamento-em-arquivos-txt)
+*  📂[ Escrita, Leitura e Tratamento em Arquivos TXT](soma_valores_txt.py)
 
 
 ---
