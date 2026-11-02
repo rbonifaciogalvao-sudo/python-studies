@@ -23,17 +23,20 @@ O projeto está organizado em pastas para facilitar a navegação:
 * **Descrição:** Um sistema interativo em terminal (CRUD) que se conecta a uma planilha `.xlsx`. O script permite listar, adicionar, editar e apagar registros de alunos diretamente no arquivo do Excel, salvando as alterações em um novo arquivo modificado.
 * **Requisitos:** Biblioteca `openpyxl` instalada (`pip install openpyxl`).
 
-
+<br>
 *  📁 **Arquivo:** `validação_senha.py`
 
 *  🔑 [ Validação de Senha com Loop](validacao_senha.py)
 
 * **Descrição:** Um script simples focado em estruturas de controle que solicita uma senha numérica ao usuário e valida o acesso, demonstrando o uso prático de laços.
 
+<br>
 
+*  📁 **Arquivo:** [Visualizar Código Original (`leitura_e_tratamento_arquivos.py`)](./algoritmos/leitura_e_tratamento_arquivos.py)
 
 *  📂[ Escrita, Leitura e Tratamento em Arquivos TXT](soma_valores_txt.py)
 
+* **Descrição:** Script que cria e escreve dados em um arquivo `.txt`, depois reabre o arquivo para ler linha por linha. Utiliza tratamento de exceções com `try/except` para somar os valores numéricos e converter strings inválidas em um valor padrão (1), evitando que o programa trave.
 
 ---
 
