@@ -24,8 +24,11 @@ O projeto está organizado em pastas para facilitar a navegação:
 * **Requisitos:** Biblioteca `openpyxl` instalada (`pip install openpyxl`).
 
 
+*  📁 **Arquivo:** `validação_senha.py`
 
+*  🔑 [ Validação de Senha com Loop](validação_senha.py)
 
+* **Descrição:** Um script simples focado em estruturas de controle que solicita uma senha numérica ao usuário e valida o acesso, demonstrando o uso prático de laços.
 
 
 
