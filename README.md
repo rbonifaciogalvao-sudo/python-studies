@@ -32,6 +32,9 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
+*  📂[ Escrita, Leitura e Tratamento em Arquivos TXT](#-escrita-leitura-e-tratamento-em-arquivos-txt)
+
+
 ---
 
 ## 🚀 Scripts Destacados
