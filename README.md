@@ -13,9 +13,11 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 *  📁**Caminho:** `juros_compostos.py`
+  
+*  💰 [Simulador de Juros Compostos](juros_compostos.py)
+  
 * **Descrição:** Script interativo que simula a evolução de um depósito inicial ao longo de 24 meses baseado em uma taxa de juros mensal fixa, exibindo o saldo mês a mês e o lucro total obtido.
 
-*   [💰 Simulador de Juros Compostos](juros_compostos.py)
 
 
 
