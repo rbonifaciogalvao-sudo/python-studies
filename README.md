@@ -1,16 +1,12 @@
 # python-studies
 
-# 🐍 Meus Códigos em Python
+#  Meus Códigos em Python 🐍
 
 Bem-vindo ao meu repositório de estudos de Python! Aqui eu guardo meus scripts, resoluções de exercícios, pequenos projetos e automações que desenvolvo ao longo do meu aprendizado.
-
+<br>
 ## 📁 Estrutura do Repositório
 
 O projeto está organizado em pastas para facilitar a navegação:
-
-
-
-
 
 *  📁 **Arquivo:** `juros_compostos.py`
   
@@ -18,11 +14,10 @@ O projeto está organizado em pastas para facilitar a navegação:
   
 * **Descrição:** Script interativo que simula a evolução de um depósito inicial ao longo de 24 meses baseado em uma taxa de juros mensal fixa, exibindo o saldo mês a mês e o lucro total obtido.
 
-
+<br>
 
 *  📁 **Arquivo:** `gerenciador_alunos_excel.py`
 
-  
 *  📊 [ Gerenciador de Alunos com Excel](gerenciador_alunos_excel.py)
 
 * **Descrição:** Um sistema interativo em terminal (CRUD) que se conecta a uma planilha `.xlsx`. O script permite listar, adicionar, editar e apagar registros de alunos diretamente no arquivo do Excel, salvando as alterações em um novo arquivo modificado.
